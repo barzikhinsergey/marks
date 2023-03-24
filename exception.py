@@ -1,0 +1,3 @@
+
+class NameDoesNotExist(Exception):
+    pass
